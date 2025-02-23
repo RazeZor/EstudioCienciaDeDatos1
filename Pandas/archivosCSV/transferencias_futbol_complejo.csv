@@ -1,0 +1,29 @@
+Jugador,Edad,Posición,Equipo_Origen,Equipo_Destino,Valor_Transferencia_Millones,Año_Transferencia,Tipo_Transferencia,Salario_Anual_Millones
+Lionel Messi,36,Delantero,PSG,Inter Miami,0,2023,Libre,45
+Cristiano Ronaldo,39,Delantero,Al-Nassr,Al-Nassr,0,2023,Libre,200
+Neymar,32,Extremo,PSG,Al-Hilal,90,2023,Compra,100
+Kylian Mbappé,25,Delantero,PSG,Real Madrid,180,2024,Compra,60
+Erling Haaland,23,Delantero,Dortmund,Man City,150,2023,Compra,35
+Kevin De Bruyne,32,Mediocampista,Man City,Man City,80,2020,Compra,25
+Robert Lewandowski,34,Delantero,Bayern,Barcelona,45,2022,Compra,15
+Mohamed Salah,31,Extremo,Liverpool,Liverpool,50,2017,Compra,18
+Karim Benzema,35,Delantero,Real Madrid,Al-Ittihad,0,2023,Libre,100
+Vinicius Jr.,23,Extremo,Real Madrid,PSG,120,2024,Compra,12
+Jude Bellingham,20,Mediocampista,Dortmund,Real Madrid,103,2023,Compra,10
+Declan Rice,24,Mediocampista,West Ham,Arsenal,116,2023,Compra,15
+João Félix,24,Delantero,Atlético Madrid,Barcelona,0,2023,Cesión,8
+Harry Kane,30,Delantero,Tottenham,Bayern,100,2023,Compra,25
+Marcus Rashford,26,Delantero,Man United,Man United,70,2022,Renovación,20
+Lautaro Martínez,26,Delantero,Inter de Milán,Inter de Milán,90,2023,Renovación,10
+Pedri,21,Mediocampista,Barcelona,Barcelona,80,2021,Renovación,8
+Rodri,27,Mediocampista,Man City,Man City,75,2022,Renovación,12
+Bruno Fernandes,29,Mediocampista,Man United,Man United,55,2020,Compra,10
+Alexis Mac Allister,25,Mediocampista,Brighton,Liverpool,42,2023,Compra,8
+Christopher Nkunku,26,Delantero,Leipzig,Chelsea,60,2023,Compra,10
+Joško Gvardiol,22,Defensa,Leipzig,Man City,90,2023,Compra,9
+Alphonso Davies,23,Defensa,Bayern,Bayern,70,2022,Renovación,12
+Trent Alexander-Arnold,25,Defensa,Liverpool,Liverpool,60,2022,Renovación,10
+Achraf Hakimi,25,Defensa,Inter de Milán,PSG,68,2021,Compra,10
+Ederson,30,Portero,Man City,Man City,50,2018,Compra,9
+Thibaut Courtois,31,Portero,Chelsea,Real Madrid,35,2018,Compra,10
+Marc-André ter Stegen,31,Portero,Barcelona,Barcelona,50,2023,Renovación,12
